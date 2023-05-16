@@ -1475,7 +1475,7 @@ a.article-title:active {
 .article-footer {
   font-size: 0.85em;
   line-height: 1.6em;
-  margin: 0 0 16px 24px;
+  margin: 0 0 0 24px;
 }
 .article-footer:before,
 .article-footer:after {
